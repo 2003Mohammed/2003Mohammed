@@ -1,55 +1,36 @@
-<h2 align="left"># 👋 Hello World, I'm Mohammed A<br>## DevOps Engineer | Cloud & Infra Enthusiast | Full-Stack Explorer</h2>
+HEY THERE !!!
 
-###
-
-<br clear="both">
+I’m Mohammed, a Cloud and DevOps Engineer focused on building stable and automated infrastructure. 
 
 
+My core expertise lies in the AWS ecosystem. While I am Azure Certified (AZ-500) and have a strong foundation in cloud security, I spend most of my time working with Terraform, Docker, Kubernetes, and Jenkins to keep systems running smoothly.
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-</div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
+I’ve built several projects to explore these technologies, but my favorite is Algo Viz. It’s a free visual learning tool for data structures and algorithms that I built to help students grasp complex logic more easily—something I’m quite passionate about as a recent graduate.
 
-<div align="left">
-</div>
 
-###
+
+
+
+Unique Fun Facts:
+
+I’m an Azure Security Engineer who ironically spends most of my time in an AWS console while using cloud.
+
+
+I believe the best code is the code I don’t have to manage.
+
+
+I’m a firm believer that "Infrastructure as Code" is the only way to sleep peacefully at night.
+
+Favorite Hobbies:
+
+Chess: I enjoy the strategic depth and calculating a few moves ahead.
+
+Exploring History: I find it fascinating to see how past events shaped our current world🧑‍🏫.
+
+Learning Tech: I'm always looking into the next tool or practice that can optimize a pipeline.
+
+Sleeping: Essential for a well-rested brain 🥱😂.
