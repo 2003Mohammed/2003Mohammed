@@ -13,17 +13,7 @@ I’ve built several projects to explore these technologies, but my favorite is 
 
 
 
-
-
-Unique Fun Facts:
-
-I’m an Azure Security Engineer who ironically spends most of my time in an AWS console while using cloud.
-
-
-I believe the best code is the code I don’t have to manage.
-
-
-I’m a firm believer that "Infrastructure as Code" is the only way to sleep peacefully at night.
+I’m a Azure Security certified who ironically spends most of my time in an AWS console while using cloud.
 
 Favorite Hobbies:
 
