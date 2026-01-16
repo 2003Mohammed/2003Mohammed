@@ -3,7 +3,7 @@ HEY THERE !!!
 I’m Mohammed, a Cloud and DevOps Engineer focused on building stable and automated infrastructure. 
 
 
-My core expertise lies in the AWS ecosystem. While I am Azure Certified (AZ-500) and have a strong foundation in cloud security, I spend most of my time working with Terraform, Docker, Kubernetes, and Jenkins to keep systems running smoothly.
+My core expertise lies in the AWS ecosystem. While I am Azure Certified (AZ-500) and have a foundation in cloud Technologies, I spend most of my time working with Terraform, Docker, Kubernetes, and Jenkins to keep systems running smoothly.
 
 
 
@@ -13,7 +13,6 @@ I’ve built several projects to explore these technologies, but my favorite is 
 
 
 
-I’m a Azure Security certified who ironically spends most of my time in an AWS console while using cloud.
 
 Favorite Hobbies:
 
